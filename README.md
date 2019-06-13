@@ -1,16 +1,5 @@
-# textpainer_vs_paragraph
+# `flutter_textpainer_vs_paragraph`
 
-A new Flutter project.
+Example to compare TextPainter and Paragraph for rendering text to canvas (usIng CustomPainter)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Created to answer [question on StackOverflow](https://stackoverflow.com/questions/51640388/flutter-textpainer-vs-paragraph-for-drawing-book-page).
